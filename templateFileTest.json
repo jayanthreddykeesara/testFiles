@@ -1,4 +1,4 @@
-    {
+    [{
         "status": "Published",
         "formParameters": [
             {
@@ -21,3 +21,4 @@
         "imageType": "image/png",
         "entity": "Template"
     }
+]
