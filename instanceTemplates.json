@@ -20,6 +20,7 @@
                 "name": "msg"
             }
         ],
+        "code":"approval_template_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "Approval Mail Template",
@@ -52,6 +53,7 @@
                 "name": "msg"
             }
         ],
+        "code":"general_template_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "General Notify Template",
@@ -72,6 +74,7 @@
             }
         ],
         "parameters": [],
+        "code":"tenant_setup_template_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "Tenant-Setup-Template",
@@ -165,6 +168,7 @@
             }
         ],
         "type": "notification-template",
+        "code":"user_mail_template_v1",
         "parameterProperties": "Parameters",
         "name": "User Mail Template",
         "description": "User mail template is to notify the newly created user in stacklynx",
@@ -246,6 +250,7 @@
                 "name": "emailHeadPng"
             }
         ],
+        "code":"issue_mail_template_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "Issue Mail Template",
@@ -328,6 +333,7 @@
                 "name": "pwdImg"
             }
         ],
+        "code":"reset_password_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "Reset Password Template",
@@ -400,6 +406,7 @@
                 "name": "stayPng"
             }
         ],
+        "code":"reset_password_conf_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "Reset Password Confirmation Template",
@@ -472,6 +479,7 @@
                 "name": "pwdConfImg"
             }
         ],
+        "code":"change_password_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "change password template",
@@ -504,6 +512,7 @@
                 "name": "msg"
             }
         ],
+        "code":"notify_mail_v1",
         "type": "notification-template",
         "parameterProperties": "Parameters",
         "name": "Notify Mail Template",
@@ -523,6 +532,7 @@
                 "paramFields": []
             }
         ],
+        "code":"deployment_mail_v1",
         "parameters": [],
         "type": "notification-template",
         "parameterProperties": "Parameters",
